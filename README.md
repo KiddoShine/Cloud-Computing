@@ -56,3 +56,16 @@ Api ini membantu memprediksi stunting.
    ```bash
    /predict/{userId}
    ```
+
+## 🔗 Social Media
+**Mohammad Dwi Turangga Lazuardi**
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rangga-lazuardi/)
+
+[![Instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zalx___/)
+
+**Muhammad Nazir**
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazirr11)
+
+[![Instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nazir_woi/)
